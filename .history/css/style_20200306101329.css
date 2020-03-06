@@ -8660,9 +8660,7 @@ textarea.form-control {
   display: block;
   width: 100%;
   position: relative;
-  z-index: 1; 
-  background-size: contain;
-}
+  z-index: 1; }
   @media (max-width: 767.98px) {
     .ftco-about .img {
       height: 350px; 
