@@ -8454,12 +8454,8 @@ h5,
         width: 130px;
         height: 2px;
         background: #fff; }
-        @media (max-width: 500px)
-        {
-.subheading{
-  font-size: 25px !important;
-}
-        }
+        @media (max-width: 767.98px)
+        
       @media (max-width: 767.98px) {
         .video-hero .text .subheading:after, .video-hero .text .subheading:before {
           display: none; } }
