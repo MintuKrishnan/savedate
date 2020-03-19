@@ -8457,14 +8457,8 @@ h5,
         @media (max-width: 500px)
         {
 .subheading{
-  font-size: 12px !important;
-  padding: 10px 0px;
-}
-.new{
-  font-size: 3rem !important;
-}
-.and{
-  font-size: 2rem !important;
+  font-size: 25px !important;
+  
 }
         }
       @media (max-width: 767.98px) {
@@ -8474,11 +8468,6 @@ h5,
       font-family: "Great Vibes", cursive;
       font-size: 9vw;
       color: #fff; }
-
-      .new ,  .and{
-        font-family: "Great Vibes", cursive;
-        font-size: 9vw;
-        color: #fff; }
 
 #timer {
   width: 60%;

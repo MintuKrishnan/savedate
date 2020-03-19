@@ -8457,15 +8457,13 @@ h5,
         @media (max-width: 500px)
         {
 .subheading{
-  font-size: 12px !important;
+  font-size: 15px !important;
   padding: 10px 0px;
 }
-.new{
-  font-size: 3rem !important;
+.text h1{
+  font-size: 3.5rem !important;
 }
-.and{
-  font-size: 2rem !important;
-}
+.and
         }
       @media (max-width: 767.98px) {
         .video-hero .text .subheading:after, .video-hero .text .subheading:before {
@@ -8474,11 +8472,6 @@ h5,
       font-family: "Great Vibes", cursive;
       font-size: 9vw;
       color: #fff; }
-
-      .new ,  .and{
-        font-family: "Great Vibes", cursive;
-        font-size: 9vw;
-        color: #fff; }
 
 #timer {
   width: 60%;
