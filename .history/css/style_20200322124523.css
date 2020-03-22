@@ -8456,11 +8456,10 @@ h5,
         background: #fff; }
         @media (max-width: 500px)
         {
-.subheading{
-  font-size: 10px !important;
+/* .subheading{
+  font-size: 12px !important;
   padding: 10px 0px;
-  color:#999999 !important;
-}
+} */
 .new{
   font-size: 3rem !important;
 }
